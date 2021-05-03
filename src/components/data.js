@@ -1,15 +1,15 @@
 export const data = [
     {
     
-      name: "naveed",
-      batch: "batch 3",
-      roll: "32",
+      name: "Kamran Ali",
+      batch: "Batch 3",
+      roll: "16512",
       class: "web and mobile"
     },
     {
      
-      name: "adnan",
-      batch: "batch 3",
+      name: "Ali Hamza",
+      batch: "Batch 3",
       roll: "32",
       class: "web and mobile"
     },
@@ -17,29 +17,29 @@ export const data = [
 
     {
       
-      name: "asif",
-      batch: "batch 3",
+      name: "Muhammad Ali",
+      batch: "Batch 3",
       roll: "23",
       class: "web and mobile"
     },
     {
      
-      name: "manan",
-      batch: "batch 3",
+      name: "Hassan Ali",
+      batch: "Batch 3",
       roll: "2323",
       class: "web and mobile"
     },
     {
         
-      name: "asif",
-      batch: "batch 3",
+      name: "Qasim Ali",
+      batch: "Batch 3",
       roll: "23",
       class: "web and mobile"
     },
     {
         
-      name: "manan",
-      batch: "batch 3",
+      name: "Hassan Mujtaba",
+      batch: "Batch 3",
       roll: "2323",
       class: "web and mobile"
     }
